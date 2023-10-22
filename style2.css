@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+}
+
+main{
+    background-color: black;
+    margin-top: 50px;
+    border-radius: 250px;
+    padding: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: white;
+}
+
+.prihlasovaci_jmeno{
+    background-color: blue;
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 25px;
+}
+
+.heslo{
+    background-color: green;
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 25px;
+}
+
+.buttony{
+    background-color: red;
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 25px;
+}
